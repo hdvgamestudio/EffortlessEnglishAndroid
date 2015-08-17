@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Effortless English</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_lesson" translatable="false">LessonActivity</string>
+    <string name="title_activity_test" translatable="false">TestActivity</string>
+    <string name="title_activity_learn" translatable="false">LearnActivity</string>
+    <string name="title_activity_loading" translatable="false">LoadingActivity</string>
+    <string name="title_activity_help" translatable="false">HelpActivity</string>
+
+</resources>
